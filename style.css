@@ -1,0 +1,34 @@
+.frame{
+    border: 50px solid black;
+    width: 500px;
+    height: 700px;
+    margin: 20px auto;
+    padding: 10px;
+}
+.inner-box{
+    background-color: brown;
+    width: 490px;
+    height: 600px;
+    filter: blur(2px);
+}
+.one{
+    background-color: burlywood;
+    width: 450px;
+    height: 150px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+.two{
+    background-color: red;
+    width: 470px;
+    height: 250px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.three{
+    background-color: rgb(160, 190, 7);
+    width: 470px;
+    height: 130px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
