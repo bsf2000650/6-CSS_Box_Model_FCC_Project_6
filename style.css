@@ -10,6 +10,7 @@
     width: 490px;
     height: 600px;
     filter: blur(2px);
+    border: 5px solid black;
 }
 .one{
     background-color: burlywood;
